@@ -12,7 +12,7 @@ One Two Three!
 
 ## こちらから
 
-[One Two Three!](https://yuukami1024.github.io/one_two_three/)
+[One Two Three!](https://yuukami1024.github.io/one-two-three/)
 
 ## 色々と
 
