@@ -1,29 +1,23 @@
-# one-two-three
+One Two Three!
+====
 
-## Project setup
-```
-npm install
-```
+## Description
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+世界のナベアツさんに芸が好きだったのでそれをゲームにしてみました！
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## ルール
 
-### Run your tests
-```
-npm run test
-```
+1~100のうち、「3の倍数と3のつく数」をその他から分類していきます。
+連続で間違えずに分類できた数とそのタイムでスコアが決まります。
 
-### Lints and fixes files
-```
-npm run lint
-```
+## こちらから
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+[One Two Three!](https://yuukami1024.github.io/one_two_three/)
+
+## 色々と
+
+他に追加したい機能もたくさんあるのですが、まだまだ私の技術力がついてきておりませんm(_ _)m
+
+## 作者
+
+[yuukami1024](https://github.com/yuukami1024)
